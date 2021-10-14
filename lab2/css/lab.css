@@ -8,6 +8,11 @@ p {
     text-indent: 20px;
     margin-left: 10px;
 }
+h3 {
+    font-family: "comic sans";
+    text-indent: 10px;
+    margin-left: 10px;
+}
 
 #content {
     background-color: #ccdaaa;
