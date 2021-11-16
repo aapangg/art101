@@ -1,0 +1,41 @@
+
+#content {
+    background-color: #ccaaaa;
+    width: 500px;
+    min-height: 500px;
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px #444444;
+    font-size: 15px;
+}
+
+h1 {
+    font-family: "courier";
+    text-indent: 20px;
+    margin-left: 10px;
+}
+
+h2 {
+    font-family: "courier";
+    text-indent: 20px;
+    margin-left: 10px;
+}
+
+
+p {
+    font-family: "courier";
+    text-indent: 20px;
+    margin-left: 5px;
+}
+
+.block {
+    border: solid 3px green;
+    border-radius: 7px;
+    padding: 7px;
+    margin: 7px;
+}
+
+.input-output {
+    border: solid 2px #333333;
+    padding: 10px 10px 30px;
+}
