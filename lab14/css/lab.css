@@ -35,6 +35,11 @@ p {
     margin: 7px;
 }
 
-.after-click {
-  background-color: #f49334;
+.input-output {
+    border: solid 2px #333333;
+    padding: 10px 10px 30px;
 }
+
+img {
+    width: 400px;
+}  
